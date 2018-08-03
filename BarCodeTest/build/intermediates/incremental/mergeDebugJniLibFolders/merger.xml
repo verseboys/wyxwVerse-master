@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AndroidStudioProjects\Android yzxwkhdapp\wyxw-master\BarCodeTest\libs"><file name="zxing.jar" path="E:\AndroidStudioProjects\Android yzxwkhdapp\wyxw-master\BarCodeTest\libs\zxing.jar"/></source></dataSet><dataSet config="debug"><source path="E:\AndroidStudioProjects\Android yzxwkhdapp\wyxw-master\BarCodeTest\src\debug\jniLibs"/></dataSet></merger>
