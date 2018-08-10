@@ -2,6 +2,7 @@ package com.xiangmu.wyxw.activitys;
 
 import android.app.Application;
 import android.media.MediaPlayer;
+import android.util.Log;
 
 /**
  * Created by Administrator on 2015/11/15.
@@ -27,11 +28,14 @@ public class App extends Application {
             mPlayer.release();
             mPlayer = null;
         }
+        Log.i("","");
     }
 
     @Override
     public void onTerminate() {
         super.onTerminate();
     }
+
+
 }
 
